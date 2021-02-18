@@ -1,0 +1,75 @@
+#ifdef __CINT__
+
+#pragma link off all globals;
+#pragma link off all classes;
+#pragma link off all functions;
+
+#pragma link C++ class QLIN+;
+#pragma link C++ class QMTL+;
+#pragma link C++ class QMTS+;
+#pragma link C++ class FRFT+;
+#pragma link C++ class FRTL+;
+#pragma link C++ class TEXS+;
+#pragma link C++ class HMAD+;
+#pragma link C++ class MCAD+;
+#pragma link C++ class PECO+;
+#pragma link C++ class EIDT+;
+#pragma link C++ class PHCO+;
+#pragma link C++ class PEPT+;
+#pragma link C++ class FRID+;
+#pragma link C++ class EFOL+;
+#pragma link C++ class PCQA+;
+#pragma link C++ class EGPC+;
+#pragma link C++ class MUID+;
+#pragma link C++ class PGPC+;
+#pragma link C++ class PGAC+;
+#pragma link C++ class PDLT+;
+#pragma link C++ class PMLT+;
+#pragma link C++ class QDET+;
+#pragma link C++ class QVEC+;
+#pragma link C++ class YV0V+;
+#pragma link C++ class FKIN+;
+#pragma link C++ class FVER+;
+#pragma link C++ class QVRT+;
+#pragma link C++ class ALPB+;
+#pragma link C++ class ALRP+;
+#pragma link C++ class RNL2+;
+#pragma link C++ class RNF2+;
+#pragma link C++ class RNR2+;
+#pragma link C++ class RLEP+;
+#pragma link C++ class LFIL+;
+#pragma link C++ class EVEH+;
+#pragma link C++ class KEVH+;
+#pragma link C++ class REVH+;
+#pragma link C++ class LOLE+;
+#pragma link C++ class X1RG+;
+#pragma link C++ class BOMB+;
+#pragma link C++ class RUNH+;
+#pragma link C++ class ASIM+;
+#pragma link C++ class ADBR+;
+#pragma link C++ class XTBN+;
+#pragma link C++ class XTCN+;
+#pragma link C++ class XTOP+;
+#pragma link C++ class LUPA+;
+#pragma link C++ class SILH+;
+#pragma link C++ class XHVB+;
+#pragma link C++ class XTEB+;
+#pragma link C++ class XTRB+;
+#pragma link C++ class DTBP+;
+#pragma link C++ class VHBV+;
+#pragma link C++ class VHPV+;
+#pragma link C++ class EAUX+;
+#pragma link C++ class SIX2+;
+#pragma link C++ class X1TV+;
+#pragma link C++ class KWGT+;
+#pragma link C++ class X1IP+;
+#pragma link C++ class SIXA+;
+#pragma link C++ class SITC+;
+#pragma link C++ class SRCO+;
+#pragma link C++ class X1TH+;
+#pragma link C++ class X1AD+;
+#pragma link C++ class QEXT+;
+#pragma link C++ class QHAC+;
+
+#endif
+

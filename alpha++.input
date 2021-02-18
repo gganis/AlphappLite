@@ -1,0 +1,24 @@
+# the database type 
+#  root      = read data from ROOT database file(s)
+DBTY root
+
+# the type of transaction to start with (read or write)
+# for a normal user it should be left to read
+TATY read      
+
+#to run AlVisu
+SETY inter
+
+# the events to proceed... works as in Alpha
+NEVT 10
+
+# the event class.. works as in Alpha
+CLAS 16 
+
+# the Alpha FILI
+#AFII 'zm4031_91.root'
+AFII 'rfio:///castor/cern.ch/aleph/root/ZM4259.54.root'
+AFII 'rfio:///castor/cern.ch/aleph/root/ZM4259.55.root'
+
+# output file: a root file. Remove the .root to get a paw ntuple
+HIST test.root

@@ -1,0 +1,7 @@
+Here are some things to be done for the next versions:
+
+- glevent has to be simplified (to many specific cases and various inputs)
+- this will implies a simplification of the handlemessagerecived in mainwindow.ui.h
+
+- the detector description has to be improved in order to include more details
+
